@@ -63,8 +63,16 @@ main {
 }
 
 .contact-section {
+  background-color: white;
+  color: black;
+}
+
+.comment-section {
+  display: inline-flex;
+  align-content: center;
   background-color: black;
   color: white;
+  width: 100%;
 }
 
 
