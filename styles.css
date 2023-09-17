@@ -1,5 +1,5 @@
 header {
-  background-color: rgb(255, 68, 0);
+  background-color: black;
   text-align: center;
 }
 
@@ -8,16 +8,17 @@ header img {
   width: 95%
 }
 
-header ul {
+header span {
   display: flex;
   align-content: center;
-  align-self: center;
+  text-align: right;
+  color: red;
 }
 
 
 main {
   text-align: center;
-  background-color: bisque;
+  background-color: white;
   border-bottom: .05in solid white;
   border-top: .05in solid white;
 }
@@ -27,8 +28,9 @@ main {
 }
 
 .shop-section {
+  background-color: white;
   display:inline-block;
-  border-bottom: .05in solid white;
+  border-bottom: .05in solid red;
 }
 
 .category-grid {
@@ -53,6 +55,16 @@ main {
   height: 4in;
   width: 3in;
   margin-left: 1in;
+}
+
+.about-section {
+  background-color: white;
+  border-bottom: .05in solid red;
+}
+
+.contact-section {
+  background-color: black;
+  color: white;
 }
 
 
