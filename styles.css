@@ -28,8 +28,32 @@ main {
 
 .shop-section {
   display:inline-block;
+  border-bottom: .05in solid white;
 }
 
+.category-grid {
+  display: flex;
+  width: auto;
+}
+
+.category-item1 img {
+  height: 4in;
+  width:3in;
+  margin-right: 1in;
+}
+
+.category-item2 img {
+  height: 4in;
+  width: 3in;
+  margin-left: 1in;
+  margin-Right: 1in;
+}
+
+.category-item3 img {
+  height: 4in;
+  width: 3in;
+  margin-left: 1in;
+}
 
 
 
