@@ -47,7 +47,7 @@ The inspiration for this application is to create a modern and responsive online
    npm run dev
    ```
 
-7. Open your web browser and navigate to `http://localhost:3000` to view the Troubled Life clothing web application.
+## Open your web browser and navigate to `http://localhost:3000` to view the Troubled Life clothing web application.
 
 ## Technologies Used
 

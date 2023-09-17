@@ -1,3 +1,21 @@
+header {
+  background-color: rgb(255, 68, 0);
+  align-content: center;
+  margin: .5%;
+}
+
+main {
+  align-items: center;
+  background-color: bisque;
+}
+
+
+
+
+
+
+
+
 /*body {
     align-items: center;
     font-family: Arial, sans-serif;
